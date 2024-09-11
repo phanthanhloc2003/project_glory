@@ -4,7 +4,9 @@
 ## Note
 
 <div style="color: #FFD700; font-size: 21px">I used sqlite so you can run and use db in resource without setup DB. Passord > 6 character</div>
-Note: Password must be greater than 6 characters and phone must be 10 digits.
+Note:
+- Password must be greater than 6 characters and phone must be 10 digits.
+- This is the mock project I put the .env name on here.
 
 ## Running the app
 
